@@ -13,4 +13,4 @@ jasmine-node spec --verbose
 
 Finally to see the test case in action run:
 
-node mars.js
+node mars.js 
